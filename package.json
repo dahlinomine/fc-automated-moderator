@@ -1,0 +1,14 @@
+{
+  "name": "fc-automated-moderator",
+  "version": "0.1.0",
+  "description": "AI-powered moderation bot for Farcaster channels",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
